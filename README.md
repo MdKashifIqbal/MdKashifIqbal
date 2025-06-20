@@ -41,13 +41,6 @@ Hi! I'm a beginner full-stack web developer who loves building websites and web 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkashifiqbal&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkashifiqbal&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-
 
 ## 📫 Connect with Me
 
