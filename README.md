@@ -6,7 +6,7 @@ Hi! I'm a beginner full-stack web developer who loves building websites and web 
 
 ##
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs)](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6852f62245a82c85f5de5a86 )
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1ltMMRfe4ZVqTHk3FPxkuKN6z-nyvAZw3/view)
 
 ---
 
